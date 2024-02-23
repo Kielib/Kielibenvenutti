@@ -1,4 +1,4 @@
-# Boas vindas ao meu perfil!👨‍🎓
+# Boas vindas ao meu perfil! 😛
 
 Meu nome é Kieli Benvenutti
 
@@ -10,4 +10,4 @@ Meu nome é Kieli Benvenutti
   
 kieli.benveutti@gmail.com
 
-![](https://media1.tenor.com/m/1SctVwsfDeEAAAAC/moti-hearts.gif) 
+![](https://media1.tenor.com/m/tbAlzAsBICsAAAAC/funny-laughing.gif) 
