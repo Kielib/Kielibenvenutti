@@ -1,25 +1,10 @@
-h2{
-    color:orange;
+:root {
+    --cor-de-fundo: #1E1E1E;
+    --verde: #6FFF57;
+    --branco: #FFFFFF;
+    --botao-ativo: #3A375E;
+    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
 }
-
-body{
-    background-color: #305050;
-    color: white;
-    font-family: Roboto;
-    text-align: center;
-}
-header{ 
-    border-bottom: 1px solid grey; 
-}
-h2{
-    COLOR:YELLOW;
-}
-
-body{
-    BACKGROUND-COLOR: GREEN;
-    FONT-FAMILY: VERDANA
-    COLOR: WHITE;
-    TEXT-ALIGN: CENTER;
-}
-
-
+<style>
+@import url(‘https://fonts.googleapis.com/ css2?family=Chakra+Petch:wght@400;700&display=swap’);
